@@ -12,6 +12,12 @@ npm run prepare
 yarn prepare
 ```
 
+Then, give the proper rights to the githooks:
+
+```bash
+chmod +x .husky/*
+```
+
 Then, run the development server:
 
 ```bash
