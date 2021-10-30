@@ -1,8 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nextjs Boilerplate with TailwindCSS
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [tailwindcss](https://tailwindcss.com).
 
 ## Getting Started
 
-First, run the development server:
+First, run husky:
+
+```bash
+npm run prepare
+# or
+yarn prepare
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
